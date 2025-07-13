@@ -36,7 +36,7 @@ yarn global add concurrently
 yarn dev
 ```
 
-Open your Chrome browser and load the development build by navigating to `chrome://extensions/`, enabling "Developer mode," and selecting "Load unpacked." Then choose the `build/chrome-mv3-dev` directory.
+Open your Chrome browser and load the development build by navigating to `chrome://extensions/`, enabling "Developer mode," and selecting "Load unpacked." Then choose the `extension/build/chrome-mv3-dev` directory.
 
 ---
 
