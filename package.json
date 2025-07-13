@@ -1,0 +1,12 @@
+{
+  "name": "elements-hihghlight-chrome-extension",
+  "version": "1.0.0",
+  "description": "This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).",
+  "main": "index.js",
+  "scripts": {
+    "dev": "yarn --cwd server install && yarn --cwd extension install && concurrently \"yarn --cwd server dev\" \"yarn --cwd extension dev\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
