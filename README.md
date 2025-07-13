@@ -45,5 +45,5 @@ Open your Chrome browser and load the development build by navigating to `chrome
 If everything is set up correctly, you will see the injected panel appear on web pages in your browser. This panel allows you to interact with the extension's features directly on the page.
 
 ```markdown
-![Injected Panel Example](assets/screenshot.png)
+![Injected Panel Example](./assets/screenshot.png)
 ```
